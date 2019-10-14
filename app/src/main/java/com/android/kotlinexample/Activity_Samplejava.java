@@ -6,8 +6,8 @@ import android.os.Bundle;
 
 public class Activity_Samplejava extends AppCompatActivity {
 
-//Testing sample secon commit
-    
+//Testing sample third commit
+
 
 
     @Override
