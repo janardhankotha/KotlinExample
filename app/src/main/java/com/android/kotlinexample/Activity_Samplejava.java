@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class Activity_Samplejava extends AppCompatActivity {
 
-//Testing sample third commit
+
 
 
 
@@ -14,6 +14,9 @@ public class Activity_Samplejava extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_samplejava);
+
+
+
 
     }
 }
